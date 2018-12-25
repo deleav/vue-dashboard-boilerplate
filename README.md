@@ -20,6 +20,3 @@ yarn run build
 # must build first
 yarn start
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
